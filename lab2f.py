@@ -1,7 +1,3 @@
-
-
-
-
 #!/usr/bin/env python3
 # Author: abhisek khatri
 # Author ID: akhatri16
