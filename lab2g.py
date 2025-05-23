@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Author: abhisek khatri
-# Author ID: akhanal16
+# Author ID: akhatri16
 # Date Created: 2025/05/18
 
 import sys
